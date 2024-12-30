@@ -1,6 +1,13 @@
 ## Overview
 This project examines the relationship between weather conditions and vehicle collisions using historical weather data from Meteostat and collision data. The analysis identifies patterns in collision frequency, severity, contributing factors, and vehicle types.
 
+## Datasets Used:
+Motor Vehicles Collisions - Crashes 
+Link: "https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes"
+
+Weather Data meteostat python
+Link: "https://dev.meteostat.net/python/"
+
 ## Key Research Questions
 1. How do weather conditions influence the frequency and severity of vehicle collisions?
 2. What are the peak times for vehicle collisions under different weather conditions?
